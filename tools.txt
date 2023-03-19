@@ -1,0 +1,80 @@
+id|name|url|sourcecode_url|description
+zvcuq32e0fyddf7|deepnotes|https://deepnotes.app/||visual note-taking tool with deep page navigation
+ceidrzztkpmlak7|mathesar|https://mathesar.org/||web-based interface that works on top of your database
+ezupplxa16wg42r|lago|https://www.getlago.com/||metering and usage-based billing
+msmo331ul72tvrc|grist|https://www.getgrist.com/||Combine the flexibility of a spreadsheet with the robustness of a database
+66i7xxv6g4h7sco|Alist|https://alist.nn.ci/||A file list program that supports multiple storage
+qow6vle29t3h9ah|CloudQuery|https://www.cloudquery.io/||data integration platform
+2ey9mhxazfnfoll|listmonk|https://listmonk.app/||newsletter and mailing list manager
+tjbbj18co1ib8xq|activepieces|https://www.activepieces.com/||No code Business Automation
+2kti32yr3pfa10p|AppFlowy|https://appflowy.io/||open-source alternative to Notion
+ne8tm8pzcvom7ms|Twake|https://twake.app/||Open-source alternative to Microsoft Teams
+ieqyoglxvurygb7|HedgeDoc|https://hedgedoc.org/||write and share markdown
+5xq4xdpzs3uegl8|Chirpy|https://chirpy.dev/||disqus alternative
+v32o5hv60kh41cr|ontrack|https://github.com/inoda/ontrack||private budgeting tool
+ht5mhnuxa0rdbqo|cal.com|https://cal.com/||scheduling infrastructure
+bhbf9y53p44c9j1|memos|https://usememos.com/|https://github.com/usememos/memos| memo hub with knowledge management and social networking
+bznqc9cqlwxy68y|Readarr|https://github.com/Readarr/Readarr||Book Manager and Automation
+dsvb4fgsbo7pmvr|vikunja|https://vikunja.io/||The Todo-app to organize your life.
+9j9v1tge2fu4k92|answer.dev|https://answer.dev/||knowledge-based community
+4n15jmrcl2pb7nc|Lotus|https://www.uselotus.io/||pricing and billing engine
+2blh2272jzaita6|Linen|https://www.linen.dev/||Slack alternative
+9by2nxt55jzcvrv|killbill|https://killbill.io/||billing and payments platform
+wdtcs2m53xlzg9c|Chatwoot|https://www.chatwoot.com/|https://github.com/chatwoot/chatwoot|customer engagement suite
+uj48ocrpzna8cmd|SigNoz|https://signoz.io/|https://github.com/SigNoz/signoz|Monitoring: Metrics, Traces and Logs
+c0gb4hqdu6d4f77|Taiga|https://www.taiga.io/|https://github.com/kaleidos-ventures|project management
+rml1b9ggmph3216|Penpot|https://penpot.app/|https://github.com/penpot|Design & Prototyping Tool for Product Teams
+681yur2afyfg8zg|Vendure|https://www.vendure.io/|https://github.com/vendure-ecommerce/vendure|headless e-commerce
+m8mxz3hwo6w7f94|Cube|https://cube.dev/|https://github.com/cube-js/cube|semantic layer for building data applications
+ciqyblds0wj31lh|Metriql|https://metriql.com/|https://github.com/metriql/metriql|Headless BI (metrics store)
+zqzae9b3mwzso25|Fider|https://fider.io/|https://github.com/getfider/fider|Customer feedback platform
+sb0bo3odeidap93|SiteSpeed|https://www.sitespeed.io/|https://github.com/sitespeedio/sitespeed.io|web performance tool
+6ldolezd4jex5ga|Actual|https://actualbudget.com/|https://github.com/actualbudget|Personal budget tracking
+btdkhjhe87v5e9t|Firefly|https://firefly-iii.org/|https://github.com/firefly-iii/firefly-iii/|Personal financial management
+6nfncai41l2rt3r|ClearFlask|https://clearflask.com/|https://github.com/clearflask/clearflask|Ideation Tool for Feedback, Roadmap and Announcements
+z355bfw0uz2zqtv|PostHog|https://posthog.com/|https://posthog.com/docs/self-host|Product analytics suite
+ls1977r1szdoxfs|Akaunting|https://akaunting.com/|https://akaunting.com/hc/docs/on-premise/installation/|online accounting software for small businesses and freelancers
+sve0yzb7jtk0ycc|GoodData|https://www.gooddata.com/|https://www.gooddata.com/developers/cloud-native/doc/cloud/deploy-and-install/community-edition/|Analytics platform
+uxrevgmen9jya2s|AzuraCast|https://www.azuracast.com/|https://github.com/AzuraCast/AzuraCast|web radio management suite
+tvajqkej071h6j7|Ampache|https://ampache.org/|https://github.com/ampache/ampache|web based audio/video streaming application and file manager
+annzc1ydp95pu52|Piwigo|https://piwigo.org/|https://piwigo.org/doc/doku.php?id=user_documentation:learn:install:installation_manual|photo management software
+rhu06jby6ifuyir|Pinry|https://docs.getpinry.com/|https://github.com/pinry/pinry/|tiling image board system to save, tag, and share images, videos and webpages
+r6pqf6i4d87ka03|PhotoPrism|https://www.photoprism.app/|https://docs.photoprism.app/getting-started/|AI-Powered Photos App for the Decentralized Web
+0hgba7zoh5uddlt|Chevereto|https://chevereto.com/|https://github.com/chevereto/chevereto|image sharing software
+a0euvjudue3vuuh|Calibre web|https://calibre-ebook.com/|https://github.com/janeczku/calibre-web|browsing, reading and downloading eBooks
+t1z3z1scvvr0cdi|OnlyOffice|https://www.onlyoffice.com/|https://github.com/ONLYOFFICE/Docker-CommunityServer/|Office suite
+nasdeed7g4850tf|SeaTable|https://seatable.io/en/|https://manual.seatable.io/docker/Developer-Edition/Deploy%20SeaTable-DE%20with%20Docker/|spreadsheet+database in browser
+8at4jjejpujp1jq|Baserow|https://baserow.io/|https://baserow.io/docs/installation%2Finstall-with-docker-compose|no-code database and Airtable alternative
+cubhci3aqocex18|NocoDB|https://nocodb.com/|https://github.com/nocodb/nocodb|Turns any database into a smart spreadsheet.
+b57qylc2pw5kk2j|Collabora Online|https://collaboraonline.github.io/|https://github.com/CollaboraOnline/online|Your own private Office in the Cloud
+kypnmjxhba3qi05|Jellyfin|https://jellyfin.org/|https://jellyfin.org/docs/general/installation/|Stream to any device from your own server
+wnmoftutok7ptjy|CodiMD|https://github.com/hackmdio/codimd|https://github.com/hackmdio/codimd|Realtime collaborative markdown notes on all platforms.
+hxakkj7w0ukv09a|Standard Notes|https://standardnotes.com/|https://github.com/standardnotes/app|End-to-end encrypted notes
+hjn7q4s5bb4yf4j|Bangle.io|https://bangle.io/|https://github.com/bangle-io/bangle-io|note taking web app that works on top of your locally saved Markdown files
+0lolol45wygl7m1|Briefkasten|https://docs.briefkastenhq.com/|https://github.com/ndom91/briefkasten|Keep all your bookmarks in one place.
+tkv6g5zrknlvtlq|Benotes|https://benotes.org/|https://github.com/fr0tt/benotes|Save Notes & Bookmarks
+my8rpnv45x6cei1|linkding|https://github.com/sissbruecker/linkding|https://github.com/sissbruecker/linkding|Self-hosted bookmark service
+9ol8dje4dgobceo|Zulip|https://zulip.com/|https://zulip.readthedocs.io/en/stable/production/install.html|Chat for distributed teams.
+anihrpl80v8iasx|Rocket.Chat|https://www.rocket.chat/|https://github.com/RocketChat/Rocket.Chat|Secure and compliant collaboration platform.
+awf4wv72b3j82ra|Mattermost|https://mattermost.com/|https://docs.mattermost.com/install/install-docker.html|Secure collaboration for technical teams
+ncpxiqkd0wq28as|element|https://element.io/|https://github.com/vector-im/element-web#running-from-docker|Secure communication and collaboration.
+c2iama2wutobwy1|Jitsi|https://jitsi.org/|https://jitsi.github.io/handbook/|State-of-the-art video conferencing
+nu9fmqglzflf3tx|Isso|https://isso-comments.de/|https://github.com/posativ/isso|a commenting server similar to Disqus
+qt8beend0zvd9dj|Remark42|https://remark42.com/|https://github.com/umputun/remark42|lightweight and simple (yet functional) comment engine
+qjfp23e466cadge|Ackee|https://ackee.electerious.com/|https://github.com/electerious/Ackee|analyzes the traffic of your websites and provides useful statistics
+smwcqe0cot9q815|matomo|https://matomo.org/|https://github.com/matomo-org/matomo|Liberating Web Analytics.
+4vp62holmr8tbm3|GoAccess|https://goaccess.io/|https://github.com/allinurl/goaccess|real-time web log analyzer and interactive viewer
+ozr7ib9wc6mxfzk|shynet|https://github.com/milesmcc/shynet|https://github.com/milesmcc/shynet|Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+avie7czo2fyuc9w|Hypothesis|https://web.hypothes.is/|https://github.com/hypothesis/h|Annotate the web with anyone, anywhere.
+7alucyo8wiznux3|Wiki.js|https://js.wiki/|https://github.com/Requarks/wiki|A modern and powerful wiki app built on Node.js
+gg88eh15hvcmz6x|outline|https://www.getoutline.com/|https://github.com/outline/outline|Your team’s knowledge base
+hrte4pne2di6r1e|BookStack|https://www.bookstackapp.com/|https://github.com/BookStackApp/BookStack|A platform to create documentation/wiki content
+wbmy45n6ih1rahy|WeKan|https://wekan.github.io/|https://github.com/wekan/wekan|Kanban task management
+xo14vmjxebt3lki|Kanboard|https://kanboard.org/|https://docs.kanboard.org/v1/admin/docker/|Kanban project management software.
+4o1310964c1k6bm|Planka|https://planka.app/|https://github.com/plankanban/planka|kanban board for workgroups
+0lgd0lb68r54uhl|Papercups|https://papercups.io/|https://github.com/papercups-io/papercups|Live customer support tool: coordinate and reply to messages over chat, email, Slack, and SMS.
+enbft9sf2qgium2|Plausible|https://plausible.io/|https://plausible.io/docs/self-hosting|Google Analytics alternative
+55bq05q9jgqia4c|Uptime Kuma|https://uptime.kuma.pet/|https://github.com/louislam/uptime-kuma|monitoring too
+t67dpbh5pw3yy0o|umami|https://umami.is/|https://github.com/umami-software/umami|website analytics
+euucqqrsl949xow|codex.docs|https://docs.codex.so/codex-docs|https://github.com/codex-team/codex.docs|Free Docs app powered by Editor.js ecosystem
+31slchel617u5j1|Growi|https://growi.org/en/|https://github.com/weseek/growi|Make Knowledge Sharing More Friendly and Simply
